@@ -1,0 +1,1 @@
+'completed') {\n      result = result.filter((t) => t.completed);\n    }\n\n    // Filter by priority\n    if (filters.priority !== 'all') {\n      result = result.filter((t) => t.priority
